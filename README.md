@@ -1,6 +1,5 @@
 # Контент игры: **Day of Defeat**
 
-* Версия пакета: 1
 * [Остальной контент](https://github.com/WoowzCore/Source-Content)
 
 ## Дополнительно
