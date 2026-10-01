@@ -1,0 +1,17 @@
+-- Resource Cartographer Index File --
+Generated: 2026-10-01 11:46:19
+From Files: all-dod
+BatchFormat: 4 | 512
+Type: Images
+Count: 9
+
+ID : Path : Size : Batch
+1 : materials/mapdesc/dod_anzio.jpg : 273x111 : 1
+2 : materials/mapdesc/dod_argentan.jpg : 356x103 : 1
+3 : materials/mapdesc/dod_avalanche.jpg : 356x103 : 1
+4 : materials/mapdesc/dod_colmar_1.jpg : 307x113 : 1
+5 : materials/mapdesc/dod_donner.jpg : 356x103 : 1
+6 : materials/mapdesc/dod_flash.jpg : 356x103 : 1
+7 : materials/mapdesc/dod_jagd_1.jpg : 338x73 : 1
+8 : materials/mapdesc/dod_kalt.jpg : 356x103 : 1
+9 : materials/mapdesc/dod_palermo.jpg : 273x111 : 1

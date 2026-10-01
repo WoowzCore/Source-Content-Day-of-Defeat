@@ -1,0 +1,9 @@
+materials/mapdesc/dod_anzio.jpg
+materials/mapdesc/dod_argentan.jpg
+materials/mapdesc/dod_avalanche.jpg
+materials/mapdesc/dod_colmar_1.jpg
+materials/mapdesc/dod_donner.jpg
+materials/mapdesc/dod_flash.jpg
+materials/mapdesc/dod_jagd_1.jpg
+materials/mapdesc/dod_kalt.jpg
+materials/mapdesc/dod_palermo.jpg
